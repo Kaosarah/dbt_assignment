@@ -1,2 +1,2 @@
 SELECT *
-FROM {{(stg_customer)}}
+FROM {{ ref('stg_customers') }}

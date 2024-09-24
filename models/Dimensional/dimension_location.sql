@@ -1,2 +1,2 @@
 SELECT *
-FROM {{(stg_location)}}
+FROM {{ ref('stg_location') }}

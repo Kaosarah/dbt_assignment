@@ -1,2 +1,2 @@
 SELECT * 
-FROM {{(stg_order)}}
+FROM {{ ref('stg_order') }}

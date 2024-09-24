@@ -1,0 +1,8 @@
+dbt version: 2
+sources:
+  - name: staging
+    database: dbtcloud
+    schema: assignment
+    tables:
+      - name: order
+      - name: location

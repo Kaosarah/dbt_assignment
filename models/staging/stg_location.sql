@@ -3,4 +3,4 @@ branch_name,
 address,
 city,
 state
-FROM dbtcloud.assignment.location
+FROM `dbtcloud-436108.assignment.location`

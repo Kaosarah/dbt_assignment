@@ -4,4 +4,4 @@ order_date AS date,
 menu_item_id,
 quantity,
 total_price AS amount
-FROM dbtcloud.assignment.order
+FROM `dbtcloud-436108.assignment.order`
