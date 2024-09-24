@@ -1,4 +1,5 @@
-dbt version: 2
+
+version: 2
 sources:
   - name: staging
     database: dbtcloud
@@ -6,3 +7,10 @@ sources:
     tables:
       - name: order
       - name: location
+        freshness:
+          warn_after:
+            count: 1  
+            period: day  
+          error_after:
+            count: 2  
+            period: day  
