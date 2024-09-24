@@ -1,0 +1,201 @@
+payment_method_id,order_id,payment_type,payment_status
+424,512,Visa,Authorized
+1453,117033,Credit Card,CAPTURE
+3119,68402860,Cash on Delivery,Pending
+2940,1415,Debit Card,Success
+5881130354348769,757262386,Cash,Completed
+4306,1096172,Cash on delivery,Pending
+8,31608,"""ATM / Debit Card""",Completed
+4940,61552,Credit Card,Pending
+7282,8291,Cash on Delivery,Refunded
+4878,33366,VISA,APPROVED
+1301,1261111,Credit Card,Captured
+1766,39869,Debit Card,Success
+1260,67378,Cash on delivery,Not paid
+1004,193,Credit Card,Pending
+695842606,12577759,MasterCard,Pending
+5253391788857891,992887522,Credit Card,PENDING
+756,2714,PayPal,Pending
+139,3736,Debit Card,Pending
+22,424244,Credit card,Not paid
+5784142843891319,4168018470057220,Cash on delivery,Verified
+93656,190579511,Credit Card,Approved
+6,3,Visa,Processed
+502514831,19499455,Credit card,Pending
+11006,24430,CASH ON DELIVERY,VERIFIED
+519755115,1000291836553,Credit/Debit Card,Pending
+481,10246,Cash on Delivery,Processing
+366,17514,Card,completed
+2,24,Cash on Delivery,Unpaid
+129001,106530,Cash on delivery,pending
+714,121075,Credit Card,Waiting
+803,303406161,VISA,Authorized
+4994525771904811,1000186137,Cash on delivery,Unpaid
+4325,1056727999,Credit Card,Pending
+80,8716,Cash on delivery,Pending
+5634112255915258,1098344224728058,Debit,Success
+52266186,236417533,VISA,Completed
+377608289963067,673919484,Cash on Delivery,Pending
+161090218,153544,Cash on delivery,Pending
+2682,1949867877,Credit card,Approved
+3914,37780,Cash on delivery,VERIFIED
+5198,1418,Debit Card,paid
+5215,71250,Cash on delivery,Pending
+221040850,1023717799,Cash on delivery,Pending
+176,102509,Credit Card,Captured
+2144,2042336,Visa,Declined
+4955,13784,Cash,Pending
+1643,2234,Card,Approved
+1144,38109,Credit Card,Pending
+5281,41165,Cash On Delivery,Pending
+1011,108759,Cash on delivery,Paid
+697,18512,Cash,Success
+5669,887965,Credit/Debit Card,Cleared
+12,929,Cash on delivery,Unpaid
+1710,9900387863989,Credit Card,Success
+832,9446,Credit/debit card,Pending
+610,271028151,Cash on delivery,Pending
+1028801422884,523572724,Cash on delivery,Shipped
+5409,10348,Online Banking Transfer,Approved
+5220771198714530,7840516090450892,Visa Card,Approved
+5793,1100599261,Cash on Delivery,Pending
+8074,101587231,Credit Card,Captured
+5810004113807698,116705155,Debit Card,APPROVED
+5551786553697274,3251154843142534,cash on delivery,pending
+516399,1387324,Visa,Pending
+603968686,60063631,PayPal,Approved
+5017463711795515,30657282,Apple Pay,Authorized
+1100126188478848,205331734,credit_card,paid
+29344,1149343,Cash on delivery,Captured
+415680,14250,cash on delivery,unpaid
+5626,3271019910,Debit Card,Success
+1141,50646,Diner's Club,Approved
+207,262494,Credit card,Pending
+52252,23467,Debit Card,Completed
+630,2201080,Card,Completed
+1215,13565,Cash on delivery,Pending
+19386,204004,VISA debit,Approved
+1378,18600,Visa,Paid
+4965,1294619,credit card,Authorized
+13,25470,Credit Card,Paid
+5310806901680887,120083,Credit Card,Approved
+3,3401,Credit Card,Accepted
+9513,146114938,Direct_Debit,REVERSED
+18,19202116,Debit Card,Completed
+191761,680136,Cash on delivery,VERIFIED
+583,1101776,COD,Pending
+51,334762,Card,Pending
+5542837873409604,1047591328,credit_card,Approved
+1214,1276653,Credit Card,AUTHORIZED
+313205360524646,181199055,Direct debit,pending
+1111,11519,Cash,Pending
+6601,2640,Cash on delivery,Paid
+2,69313,Debit,Paid
+5328409432787457,12054893,credit card,Approved
+1151170588,1123925279,Credit Card,PENDING
+347,2909,Cash on delivery,Pending
+1000000026579730,1000000044591072,Debit Card,Approved
+525,175460,PayPal,Authorized
+144,2297681,Online,Paid
+34,74,Cash,Deposited
+3000933635,616858332,Cash on delivery,Pending
+5530349951237427,1081553944223,Cash on delivery (COD),Not yet paid
+12728,19969,Debit card payment,Approved
+5263804379017295,130962339435490,CREDIT CARD,PENDING
+4476952605449201,112233,Cash on delivery,Pending
+6934,1070955159,Credit Card,Authorized
+5579933720414026,1052449304,Credit Card,Pending
+1001,1018274,PayPal,Success
+512,26403,Cash on Delivery,Pending
+2000003150173615,430193407,Cash,Success
+831769050,8127893019,Debit Card (Visa),authorized
+17601,935227,Visa,Completed
+14347,24730,Credit Card,Paid
+54528596,94620323,Visa,Paid
+203,85956,Stripe,Pending
+49,111799,Cash on delivery,Unpaid
+12931,4473,cash on delivery,delivered
+169,203247,Cash,Pending
+55,1473,Credit Card,Approved
+4618,23640,Cash,Paid
+1641,777143,Cash on Delivery,Pending
+665,2030,Credit Card,Approved
+8261009,3847910798,Cash on Delivery,Pending
+4,57494,Debit card,Pending
+4790101065353765,4031900707292,Cash on delivery,Pending
+1184,10298,Direct bank transfer,Completed on 2022-04-05 04:43:22
+526499712,1245519554,Debit card,PENDING
+72900,429612,Cash on delivery,Pending
+2766,453621,Cash on delivery,Pending
+3885,694885,Cash on delivery,Payment initiated
+3481,1168661,Credit card,Completed
+108,14372,Cash on Delivery,Unpaid
+569030219,216905578,Debit Card,Success
+1240,13059,Debit card,Success
+1700,112336,Mastercard,Approved
+1730,23657,PayPal,paid
+4000000000432439,757,Credit Card,pending
+30002243,10813,Cash on delivery,unpaid
+180,39848,Credit Card,Success
+239,1069685,Credit Card,VERIFIED
+20003474,125059363,Credit card,Pending
+4741441019815155,5207515390377403,Credit Card,Captured
+809411143892671,1212751049,Credit Card,Success
+4293,32995,Cash on Delivery (COD),Pending
+4327,101412,Cash on delivery,Awaiting payment
+804199773,138635719,Credit Card,Completed
+59382,59987,Debit card,Failed
+100,12500,credit_card,VERIFIED
+59193563,871540501,Visa,Success
+1624,1194285,Cash on Delivery,Pending
+5274,103419786,Credit Card,Success
+350,5505,Cash on delivery,Pending
+757541417,1005738401,Cash on Delivery,Paid
+4168,17791,Bank transfer,Pending
+205,130474,Credit card,Approved
+44,72477,Credit Card,Authorized
+1380,67656,Credit Card,Pending
+123,1060899442,Cash on delivery,Awaiting payment
+52804,107856694,Credit Card,Approved
+559,22545,Cash on Delivery,Settled
+5649,52123,Debit Card,Approved
+365,18730,Cash on delivery,Pending
+1010,10655,bank transfer,paid
+10007,342,Cash on delivery,Awaiting payment
+7717744311200192,221853,Credit Card,Success
+5419,2718278,Debit,Pending
+549562,2788113,PayPal,Open
+1188,21455,Visa,Failed
+5215123,1107441953,Online Banking,Pending
+5211011083568699,33365057,Visa debit,Approved
+1477,8757,cash on delivery,pending
+50304733,5293421,Cash On Delivery,success
+1012,2555,Cash on Delivery,Pending
+731,934706,Debit,Success
+1001,118795,Credit Card,Verified
+1005,12672350,Credit Card,Approved
+431,131824,Cash on Delivery,Paid
+141,5804881,Cash on delivery,Pending
+68,5584,Debit card,paid
+38,95979,Cash on delivery,Pending
+75646,692015266,credit_card,Approved
+251,27988,Cash on Delivery,Unpaid
+11110,254482979,Debit Card,Completed
+5395,69524,Cash on delivery,Pending
+554,5533,Cash on delivery,Pending
+1,41091,Credit card,Pending
+45,6357,Credit Card,Approved
+2002,36344,Cash,Awaiting payment
+50552,2673,DebitCard,Authorised
+5580635575359176,107354327,Diners Club,approved
+56974,110346,Visa,completed
+1307,90434,Cheque,Pending
+654,2397,Debit Card,Success
+39,100631,PayPal,Captured
+28,1000110249,Bank transfer,Completed
+875,1387,Cash on Delivery,Not Due
+6818,1010042,Credit card,Approved
+511714063,1650896648,Credit card,authorized
+126,7984,Cash on delivery (COD),Pending
+4157603452040991,306732881,Credit Card,Awaiting payment
+849,39045693,Cash on delivery,Unpaid
