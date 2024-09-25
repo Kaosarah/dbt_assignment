@@ -1,0 +1,16 @@
+
+version: 2
+sources:
+  - name: staging
+    database: dbtcloud-436108
+    schema: assignment
+    tables:
+      - name: order
+      - name: location
+        freshness:
+          warn_after:
+            count: 1  
+            period: day  
+          error_after:
+            count: 2  
+            period: day  
