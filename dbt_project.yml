@@ -28,3 +28,8 @@ models:
       +materialized: table  # Models in this folder will be materialized as tables
     staging:  # Correct indentation
       +materialized: view  # Models in this folder will be materialized as views
+
+models:
+   dbt_assignment:
+    +post
+      - "GRANT SELECT ON `{{ this }}` TO 'joseph@example.com'"
